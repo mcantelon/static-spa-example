@@ -1,5 +1,5 @@
 {
-  "name": "backbone-spa-example",
+  "name": "static-spa-example",
   "dependencies": {
     "backbone": "1.1.2",
     "bootstrap": "3.3.4",
